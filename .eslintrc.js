@@ -52,7 +52,7 @@ module.exports = {
 		"newline-per-chained-call": [
 			"error",
 			{
-				"ignoreChainWithDepth": 3
+				"ignoreChainWithDepth": 2
 			}
 		],
 		"@typescript-eslint/no-var-requires": "off",
