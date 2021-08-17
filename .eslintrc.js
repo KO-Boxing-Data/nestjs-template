@@ -49,6 +49,12 @@ module.exports = {
 				"tabWidth": 4
 			}
 		],
+		"newline-per-chained-call": [
+			"error",
+			{
+				"ignoreChainDepth": 3
+			}
+		],
 		"@typescript-eslint/no-var-requires": "off",
 		"@typescript-eslint/no-namespace": "off",
 		"@typescript-eslint/ban-ts-comment": "off",
